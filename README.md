@@ -1,6 +1,5 @@
 # negative_constructions
 
-# Negative_Constructions
 This repository contains code and data for the paper "English Negative Constructions and Communicative Functions in Child Language", to appear in CogSci 2021, as well as an ongoing journal article extension.
 
 In particular, the study investigates negative syntactic constructions and the communicative functions they play in early child language of English (age ranges from 12 to 72 months). 
